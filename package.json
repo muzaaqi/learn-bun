@@ -4,9 +4,13 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@types/react": "^19.1.11"
   },
   "peerDependencies": {
     "typescript": "^5"
+  },
+  "dependencies": {
+    "react": "^19.1.1"
   }
 }
